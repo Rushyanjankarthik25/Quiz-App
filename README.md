@@ -52,7 +52,7 @@ quiz-app/
 ## ✍️ Author
 
 **Rushyanjan Karthik**  
-🔗 [GitHub Profile](https://github.com/rushyanjankarthik25)
+🔗 [GitHub Profile](https://rushyanjankarthik25.github.io/Quiz-App/)
 
 ---
 
