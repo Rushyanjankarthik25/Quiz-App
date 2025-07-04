@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Quiz App</title>
+    <link href="style.css" rel="stylesheet" />
+  </head>
+  <body>
+    <div class="quiz-container">
+      <h1>🧠 Quiz time</h1>
+      <div id="quiz-box">
+        <div class="circle-timer">
+          <svg viewBox="0 0 100 100">
+            <circle cx="50" cy="50" r="45" class="bg" />
+            <circle
+              cx="50"
+              cy="50"
+              r="45"
+              class="progress"
+              id="circle-progress"
+            />
+          </svg>
+          <div class="time-text" id="timer">
+            <span id="timer-number">10</span>
+            <span class="dot"></span>
+          </div>
+        </div>
+        <div id="time-up" class="hidden">⏰ Time's Up!</div>
+        <div id="question">Question Box</div>
+        <div id="options"></div>
+        <button id="next-btn">Next</button>
+      </div>
+      <div id="result" class="hidden"></div>
+      <button id="restart-btn" class="hidden">Restart Quiz</button>
+    </div>
+    <script src="scripts.js"></script>
+  </body>
+</html>
