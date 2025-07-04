@@ -8,7 +8,7 @@ This project challenges your understanding of core JavaScript concepts like DOM 
 
 ## 🚀 Live Demo
 
-👉 [Click here to try the quiz](https://github.com/Rushyanjankarthik25/Quiz-App.git)
+👉 [Click here to try the quiz](https://rushyanjankarthik25.github.io/Quiz-App/)
 
 ---
 
@@ -52,7 +52,7 @@ quiz-app/
 ## ✍️ Author
 
 **Rushyanjan Karthik**  
-🔗 [GitHub Profile](https://rushyanjankarthik25.github.io/Quiz-App/)
+🔗 [GitHub Profile](https://github.com/Rushyanjankarthik25/Quiz-App.git)
 
 ---
 
